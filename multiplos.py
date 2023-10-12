@@ -4,7 +4,7 @@ Diseñar un programa para que, dados dos números enteros, determine si uno es m
 """
 
 #Entrada
-numero_1 = int(input("Introdusca un número: "))
+numero_1 = int(input("Introduzca un número: "))
 numero_2 = int(input("Introduzca otro número: "))
 
 #Proceso
